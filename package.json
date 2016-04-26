@@ -1,0 +1,33 @@
+{
+  "name": "redux-create-store",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "suxxus",
+  "license": "ISC",
+  "description": "redux studies, create store",
+  "scripts": {
+    "lint": "eslint --color  src || true",
+    "dev": "watch -p 'src/**/*.js' -c 'npm run lint'",
+    "check": "npm outdated --depth=0",
+    "update": "updtr"
+  },
+  "devDependencies": {
+    "eslint": "2.8.0",
+    "eslint-cli": "1.1.0",
+    "eslint-config-eslint": "3.0.0",
+    "redux": "3.5.2",
+    "updtr": "0.1.10",
+    "watch-cli": "0.2.1"
+  },
+  "keywords": [
+    "node",
+    "redux",
+    "create-store"
+  ],
+  "dependencies": {
+    "redux": "3.5.2"
+  }
+}
