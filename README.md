@@ -1,8 +1,7 @@
 # Create store
 redux studies createStore
 
-***Creates a Redux store that holds the complete state tree of your app.
-There should only be a single store in your app***
+***Creates a Redux store that holds the complete state tree of your app.***
 
 ## Clone the repo & install
 ```
