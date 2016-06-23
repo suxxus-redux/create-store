@@ -1,6 +1,8 @@
 # Create store
 redux studies createStore
 
+***Creates a Redux store that holds the complete state tree of your app.***
+
 ## Clone the repo & install
 ```
 git clone https://github.com/suxxuscomp/create-store.git
